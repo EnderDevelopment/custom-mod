@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "custommod",
+  "version": "1.0.0",
+  "name": "Custom Mod",
+  "description": "A custom Minecraft mod",
+  "authors": [
+    "kaniwarytgames"
+  ],
+  "contact": {
+    "homepage": "https://example.com",
+    "sources": "https://github.com/kaniwarytgames/custommod"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.kaniwarytgames.custommod.CustomMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.20.4",
+    "fabric-api": "*"
+  }
+}

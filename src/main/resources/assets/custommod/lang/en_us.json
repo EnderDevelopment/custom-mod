@@ -1,0 +1,5 @@
+{
+  "item.custommod.custom_item": "Custom Item",
+  "block.custommod.custom_ore": "Custom Ore",
+  "item.custommod.custom_item.tooltip": "This is a custom item!"
+}
